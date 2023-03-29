@@ -29,7 +29,7 @@
 <link href="./css/style.css" rel="stylesheet">
 </head>
 
-<styles>
+<style>
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1rem;
@@ -125,7 +125,7 @@ h3 {
 	background-color: #b3fcd1;
 }
 
-</styles>
+</style>
 <body>
 <div id="Frame0">
   <h1>Azubi Cloud Project Version 2</h1>
